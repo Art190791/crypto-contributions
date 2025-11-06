@@ -1,0 +1,1 @@
+"commit $(date)"  add .git commit -m "daily contribution $(date)"git push
